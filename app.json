@@ -1,0 +1,17 @@
+{
+  "name": "uFitness",
+  "displayName": "uFitness",
+  "expo": {
+    "name": "uFitness",
+    "slug": "uFitness",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
